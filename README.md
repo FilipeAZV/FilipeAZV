@@ -34,7 +34,9 @@
   
 <h3> GitHub Estatísticas </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAZV&layout=compact)](https://github.com/FilipeAZV/github-readme-stats)
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
 
 ⭐️ From [FilipeAZV](https://github.com/FilipeAZV)
 
