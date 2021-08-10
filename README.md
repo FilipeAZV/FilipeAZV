@@ -38,5 +38,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
 </a>
 
-<h6> ⭐️ From (https://github.com/FilipeAZV) </h6>
-
+⭐️ From [FilipeAZV](https://github.com/FilipeAZV)
