@@ -30,11 +30,5 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&linko/"/></a>
 </p>  
   
-<h3> GitHub Estatísticas </h3>
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
-</a>
-
 
 ⭐️ From [FilipeAZV](https://github.com/FilipeAZV)
