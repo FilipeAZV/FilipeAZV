@@ -17,14 +17,7 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
-  
-<h3> GitHub Estatísticas </h3>
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
-</a>
-
-<h3> 📱 Contato </h3>
+  <h3> 📱 Contato </h3>
 
 <p align="left">
   <a href="https://wa.me/5551991222533" alt="WhatsApp">
@@ -36,6 +29,12 @@
   <a href="https://linkedin.com/in/filipeazevedoo" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&linko/"/></a>
 </p>  
+  
+<h3> GitHub Estatísticas </h3>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
 
 
 ⭐️ From [FilipeAZV](https://github.com/FilipeAZV)
