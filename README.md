@@ -4,20 +4,6 @@
 - 🔭 Estou em busca de novas oportunidades
 - 🌱 Sempre em busca de conhecimento
 
-
-<h3> 📱 Meu contato </h3>
-
-<p align="left">
-  <a href="https://wa.me/5551991222533" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link"/></a>
-  
-  <a href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=example@domain.com&continue=https://mail.google.com/mail/u/example@domain.com/?view=cm%26fs=1%26to=filipeazevedomoraes@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link"/></a>
-
-  <a href="https://linkedin.com/in/filipeazevedoo" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&linko/"/></a>
-</p>  
-
 <h3> 📚 Aprendendo </h3>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -38,6 +24,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
 </a>
 
+<h3> 📱 Contato </h3>
+
+<p align="left">
+  <a href="https://wa.me/5551991222533" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link"/></a>
+  
+  <a href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=example@domain.com&continue=https://mail.google.com/mail/u/example@domain.com/?view=cm%26fs=1%26to=filipeazevedomoraes@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link"/></a>
+
+  <a href="https://linkedin.com/in/filipeazevedoo" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&linko/"/></a>
+</p>  
 
 
 ⭐️ From [FilipeAZV](https://github.com/FilipeAZV)
