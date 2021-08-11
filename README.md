@@ -11,10 +11,10 @@
   <a href="https://wa.me/5551991222533" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5551991222533"/></a>
   
-  <a href="filipeazevedomoraes@gmail.com" alt="Gmail">
+  <a href="ttps://filipeazevedomoraes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://filipeazevedomoraes@gmail.com" /></a>
 
-  <a href="linkedin.com/in/filipeazevedoo" alt="Linkedin">
+  <a href="ttps://linkedin.com/in/filipeazevedoo" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/filipeazevedoo/" /></a>
 </p>  
 
