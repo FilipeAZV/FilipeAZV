@@ -11,7 +11,7 @@
   <a href="https://wa.me/5551991222533" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link"/></a>
   
-  <a href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=example@domain.com&continue=https://mail.google.com/mail/u/example@domain.com/?view=cm%26fs=1%26to=filipeazevedomoraes@gmail.com%26su=SUBJECT%26body=BODY%26bcc=someone.else@example.com
+  <a href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=example@domain.com&continue=https://mail.google.com/mail/u/example@domain.com/?view=cm%26fs=1%26to=filipeazevedomoraes@gmail.com
 " alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link"/></a>
 
