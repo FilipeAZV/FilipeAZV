@@ -1,8 +1,8 @@
 <h3> Filipe Gabriel de Moraes de Azevedo </h3>
 
 
-- 🔭 Estou em busca de novas oportunidades
-- 🌱 Sempre em busca de conhecimento
+- Em busca de novas oportunidades
+- Sempre em busca de conhecimento
 
 <h3> 📚 Aprendendo </h3>
 
