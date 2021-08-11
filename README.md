@@ -11,7 +11,7 @@
   <a href="https://wa.me/5551991222533" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5551991222533"/></a>
   
-  <a href="https://filipeazevedomoraes@gmail.com" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://filipeazevedomoraes@gmail.com" /></a>
 
   <a href="https://linkedin.com/in/filipeazevedoo" alt="Linkedin">
