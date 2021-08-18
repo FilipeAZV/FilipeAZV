@@ -4,12 +4,6 @@
 - Em busca de novas oportunidades
 - Sempre em busca de conhecimento
 
-<h3> 📚 Aprendendo </h3>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
 <h3> 🚀 Minhas Skills </h3>
 
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -24,7 +18,7 @@
 
 <p align="left">
   <a href="https://wa.me/5551991222533" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link"/></a>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link"/></p>
   
   <a href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=example@domain.com&continue=https://mail.google.com/mail/u/example@domain.com/?view=cm%26fs=1%26to=filipeazevedodev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link"/></a>
