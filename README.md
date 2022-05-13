@@ -33,6 +33,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&linko/"/></a>
 </p>  
   
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAZV&hide=html&layout=compact&theme=tokyonight,)](https://github.com/FilipeAZV/)
+[![FilipeAZV](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeAZV&hide=html&layout=compact&theme=tokyonight,)](https://github.com/FilipeAZV/)
 
 ⭐️ From [FilipeAZV](https://github.com/FilipeAZV)
