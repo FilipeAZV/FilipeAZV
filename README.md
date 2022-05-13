@@ -1,24 +1,19 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right" alt="Computador iuriCode">
 
-<h3> Filipe Gabriel de Moraes de Azevedo </h3>
+```js
+import Desenvolvedor from 'FilipeAZV';
 
+class SobreMim extends Desenvolvedor {
+  nome     = 'Filipe Gabriel de Moraes de Azevedo';
+  area    = 'Técnico de Suporte';
+  trabalho  = 'Prefeitura Municipal de São Leopoldo';
+}
 
-- Em busca de novas oportunidades
-- Sempre em busca de conhecimento
-
-<h3> 🚀 Minhas Skills </h3>
-
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-
-<h3> 📚 Estudando </h3>
-
-![react](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React&logoColor=white&labelColor=8E2DE2)
-![javascript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/node-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
+class Skills extends Desenvolvedor {
+  linguagens  = ['html5, css3, bootstrap, github'];
+  estudando  = ['react, javascript, node, typescript'];
+}
+```
 
   <h3> 📱 Contato </h3>
 
