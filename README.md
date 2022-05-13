@@ -17,7 +17,7 @@
 
 ![reactjs](https://img.shields.io/badge/ReactJS-grey?style=for-the-badge&logo=React&logoColor=white&labelColor=8E2DE2)
 ![javascript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/node-grey?style=for-the-badge&logo=node&logoColor=white&labelColor=8E2DE2)
+![node](https://img.shields.io/badge/node-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 ![typescript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
 
   <h3> 📱 Contato </h3>
