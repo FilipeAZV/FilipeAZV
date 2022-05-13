@@ -10,8 +10,9 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['html5, css3, bootstrap, dart'];
+  linguagens  = ['html5, css3, dart'];
   estudando  = ['react, javascript, node, typescript'];
+  frameworks = ['bootstrap', flutter];
   ferramentas  = ['github, android studio, vscode, trello'];
 }
 ```
